@@ -9,3 +9,6 @@ This is a very simple practice project which has some basic concepts such as fol
  - It shows the list of all the inputs
  - It has a validation check as well
  - Well styled project
+
+Please check the given video:
+https://www.loom.com/share/e0671a65b914467d979189d885ded71e
